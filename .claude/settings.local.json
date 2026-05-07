@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/**)",
+      "Read(//Users/rtmayo/**)",
+      "Bash(python3 *)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(python3 .trellis/scripts/task.py create \"brainstorm: build personal blog\" --slug blog-setup)",
+      "Read(//tmp/**)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(where python *)",
+      "mcp__grok-search__plan_intent",
+      "mcp__grok-search__plan_complexity",
+      "mcp__grok-search__plan_sub_query",
+      "mcp__grok-search__web_search",
+      "WebSearch",
+      "Bash(npm --version)",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "WebFetch(domain:github.com)",
+      "Bash(pkill -f \"astro dev\")",
+      "Bash(pnpm *)",
+      "Bash(npx degit *)",
+      "Bash(curl -s http://localhost:4321)",
+      "Bash(curl -s \"https://api.github.com/users/AzureBones\")",
+      "Bash(curl -sL \"https://github.com/AzureBones.png?size=200\" -o /c/Users/Yang/Desktop/blog/src/assets/images/demo-avatar.png)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
+    ]
+  }
+}
