@@ -7,5 +7,5 @@ category: 生活
 draft: false
 ---
 
-## 杨泽华 草泥马
-![Uploading 屏幕截图 2026-05-08 181852.png…]()
+
+<img width="940" height="940" alt="Cuijian" src="https://github.com/user-attachments/assets/5dbf3a5a-52aa-4ffb-8a3e-367c53b26929" />
